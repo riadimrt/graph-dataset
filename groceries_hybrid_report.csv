@@ -1,0 +1,6 @@
+Itemset,Size,Support,Pattern,Distance,Category
+"{other vegetables, whole milk}",2,0.09588327253778009,Direct,10.429347825978185,Fundamental
+"{whole milk, rolls/buns}",2,0.07256383533090151,Direct,13.780969479163765,Fundamental
+"{whole milk, yogurt}",2,0.07178217821782178,Direct,13.931034482564547,Fundamental
+"{root vegetables, whole milk}",2,0.06266284523189161,Direct,15.958419958165285,Fundamental
+"{whole milk, tropical fruit}",2,0.05419489317352788,Direct,18.451923076582602,Fundamental
